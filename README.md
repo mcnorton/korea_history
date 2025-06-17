@@ -1,5 +1,7 @@
 <img src=https://github.com/user-attachments/assets/4039eff7-47f9-499b-83a7-184d31681bc6 width=320>
 
+[Home](https://mcnorton.github.io/korea_history)
+
 # 한국사연표 1.0
 
 1. 항상 가지고 다니면서 역사를 확인할 수 있습니다.
