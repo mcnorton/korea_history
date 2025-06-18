@@ -1,4 +1,4 @@
-<img src=https://github.com/user-attachments/assets/4039eff7-47f9-499b-83a7-184d31681bc6 width=320>
+![korea_history_title](https://github.com/user-attachments/assets/2624047a-c49d-4221-b3f0-c6caa6b593d7)
 
 [Home](https://mcnorton.github.io/korea_history) | 
 [개인정보처리방침](/korea_history/privacy)
