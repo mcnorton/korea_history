@@ -1,6 +1,7 @@
 <img src=https://github.com/user-attachments/assets/4039eff7-47f9-499b-83a7-184d31681bc6 width=320>
 
-[Home](https://mcnorton.github.io/korea_history)
+[Home](https://mcnorton.github.io/korea_history) | 
+[개인정보처리방침](/korea_history/privacy)
 
 # 한국사연표 1.0
 
@@ -18,4 +19,3 @@
 
 # Help
 
-- [개인정보처리방침](/korea_history/privacy)
