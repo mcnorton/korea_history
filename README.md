@@ -16,6 +16,14 @@
 - Apple Appstore
 
 # Screenshot
+![1_240x](https://github.com/user-attachments/assets/9d533972-94b6-460d-ad11-a8266802ed80)
+![2_240x](https://github.com/user-attachments/assets/abb42224-0585-4e87-a5d2-748fdf27ea6f)
+![3_240x](https://github.com/user-attachments/assets/66b4b92a-031d-44b1-a697-0dedeb8dea1b)
+![4_240x](https://github.com/user-attachments/assets/7e88a066-f266-4406-b034-5a5fdf87f72c)
+![5_240x](https://github.com/user-attachments/assets/44c11f98-01e2-43c6-89a5-45cb5378830d)
+![6_240x](https://github.com/user-attachments/assets/adc6baf8-13e4-436a-915c-3f619f607e8d)
+![7_240x](https://github.com/user-attachments/assets/78bd9a4c-5812-4c3c-bc54-effa309efe81)
+![8_240x](https://github.com/user-attachments/assets/dacce188-d7f6-4246-82f5-21352007fad3)
 
 # Help
 
