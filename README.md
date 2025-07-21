@@ -5,25 +5,31 @@
 
 # 한국사연표 1.0
 
-1. 항상 가지고 다니면서 역사를 확인할 수 있습니다.
-2. 한국사와 주요 세계사를 동시에 볼 수 있습니다.
-3. 위키피디아를 통해 자세히 살펴볼 수 있습니다.
+1. 항상 가지고 다니면서 역사를 공부
+2. 수업시간 태블릿에 무료로 설치하여 사용
+3. 한국사와 주요 세계사를 동시에 비교
+4. 위키피디아를 통해 자세히 읽기
+5. 나의 역사연표 만들기
 
 # Install
-(비공개 테스트 중입니다. 곧 공개 됩니다. coming soon)
 
-- Google Playstore
-- Apple Appstore
+<img width="240" alt="down_playstore" src="https://github.com/user-attachments/assets/f5146e1a-9c16-443e-94a3-8e30b6be361c" />
+
+[Google Playstore 출시 완료](https://play.google.com/store/apps/details?id=com.mcnorton.korea_history)
+
+<img width="240" alt="down_appstore" src="https://github.com/user-attachments/assets/58300596-90a5-424f-b4d9-75cad84d265f" />
+
+(Apple Appstore 8월 출시 예정)
 
 # Screenshot
-![1_240x](https://github.com/user-attachments/assets/9d533972-94b6-460d-ad11-a8266802ed80)
-![2_240x](https://github.com/user-attachments/assets/abb42224-0585-4e87-a5d2-748fdf27ea6f)
-![3_240x](https://github.com/user-attachments/assets/66b4b92a-031d-44b1-a697-0dedeb8dea1b)
-![4_240x](https://github.com/user-attachments/assets/7e88a066-f266-4406-b034-5a5fdf87f72c)
-![5_240x](https://github.com/user-attachments/assets/44c11f98-01e2-43c6-89a5-45cb5378830d)
-![6_240x](https://github.com/user-attachments/assets/adc6baf8-13e4-436a-915c-3f619f607e8d)
-![7_240x](https://github.com/user-attachments/assets/78bd9a4c-5812-4c3c-bc54-effa309efe81)
-![8_240x](https://github.com/user-attachments/assets/dacce188-d7f6-4246-82f5-21352007fad3)
+
+<img width="120" height="213" alt="1_120x" src="https://github.com/user-attachments/assets/8c28b022-6010-4493-a8ac-98aec5aa5c87" />
+<img width="120" height="213" alt="2_120x" src="https://github.com/user-attachments/assets/315c2a57-6bdb-4f3e-b94e-99ffc4a2aa6a" />
+<img width="120" height="213" alt="3_120x" src="https://github.com/user-attachments/assets/6f5e514b-b1ee-4d4f-ad0e-a537287fd662" />
+<img width="120" height="213" alt="4_120x" src="https://github.com/user-attachments/assets/141d52fe-5b93-48c9-9e3c-7b37b1ef1023" />
+<img width="120" height="213" alt="5_120x" src="https://github.com/user-attachments/assets/c29fde8f-e616-4b1c-925d-b91c8ad9fd30" />
+<img width="120" height="213" alt="6_120x" src="https://github.com/user-attachments/assets/7cc9b2a0-10ab-4e62-9aa5-695087e82375" />
+
 
 # Help
 
