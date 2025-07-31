@@ -28,8 +28,8 @@
 
 본 애플리케이션은 데이터 처리에 대한 자체 개인정보 보호정책을 보유한 제3자 서비스를 활용하고 있습니다. 아래는 본 애플리케이션에서 사용하는 제3자 서비스 제공업체의 개인정보 보호정책 링크입니다.
 - Google Play 서비스 https://policies.google.com/privacy
+- Google Admob 애드몹 서비스 https://policies.google.com/privacy
 - Apple Appstore 서비스 https://www.apple.com/kr/privacy
-- Admob 애드몹 서비스 https://policies.google.com/privacy
 
 서비스 제공자는 사용자가 제공한 정보와 자동으로 수집된 정보를 공개할 수 있습니다.
 - 소환장이나 유사한 법적 절차를 준수하는 등 법률에 의해 요구되는 경우
