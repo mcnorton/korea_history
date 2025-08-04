@@ -1,3 +1,9 @@
+![korea_history_title](https://github.com/user-attachments/assets/c7ca3e6a-fb6c-41de-9922-d0d728006ec0)
+
+[Home](https://mcnorton.github.io/korea_history) | 
+[History](https://mcnorton.github.io/korea_history/history) |
+[개인정보처리방침](https://mcnorton.github.io/korea_history/privacy)
+
 # Open
 
 ## 1.0.15
