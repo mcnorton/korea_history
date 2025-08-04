@@ -16,7 +16,7 @@
   
 <a href="https://play.google.com/store/apps/details?id=com.mcnorton.korea_history" target="korea_history"><img width="240" alt="down_playstore" src="https://github.com/user-attachments/assets/f5146e1a-9c16-443e-94a3-8e30b6be361c" /></a>
   
-<a href="https://apps.apple.com/kr/app/한국역사연표/id6749217619"><img width="240" alt="down_appstore" src="https://github.com/user-attachments/assets/58300596-90a5-424f-b4d9-75cad84d265f" /></a>
+<a href="https://apps.apple.com/kr/app/한국역사연표/id6749217619" target="korea_history"><img width="240" alt="down_appstore" src="https://github.com/user-attachments/assets/58300596-90a5-424f-b4d9-75cad84d265f" /></a>
 
 # Screenshot
 
