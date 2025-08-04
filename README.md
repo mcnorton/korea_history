@@ -1,8 +1,8 @@
 ![korea_history_title](https://github.com/user-attachments/assets/2624047a-c49d-4221-b3f0-c6caa6b593d7)
 
 [Home](https://mcnorton.github.io/korea_history) | 
-[History](/korea_history/history.md) |
-[개인정보처리방침](/korea_history/privacy.md)
+[History](/history) |
+[개인정보처리방침](/privacy)
 
 # 한국사연표 1.0
 
