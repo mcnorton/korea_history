@@ -1,10 +1,20 @@
-![korea_history_title](https://github.com/user-attachments/assets/c7ca3e6a-fb6c-41de-9922-d0d728006ec0)
-
-[Home](https://mcnorton.github.io/korea_history) | 
-[History](https://mcnorton.github.io/korea_history/history) |
+[HOME](https://mcnorton.github.io/korea_history) | 
+[버전이력](https://mcnorton.github.io/korea_history/history) |
 [개인정보처리방침](https://mcnorton.github.io/korea_history/privacy)
 
-# Open
+<p align="center">
+  <img width="360" height="176" alt="한국역사연표-메인타이틀x360" src="https://github.com/user-attachments/assets/4d7176c3-8485-467f-8f66-7c4df3bcfe81" /><br />
+</p>
+
+# 정식출시
+
+## 1.0.17
+- 사용자 인터페이스 개선
+- 날짜계산 오류수정
+
+## 1.0.16
+- 80주년 광복기념 '독립운동사' 추가
+- 여성독립운동사 추가
 
 ## 1.0.15
 - 애플 앱스토어 출시
