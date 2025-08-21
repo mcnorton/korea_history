@@ -1,2 +1,12 @@
-title: 한국역사연표 1.0
+title: 한국역사연표
 description: 대한민국 역사연표 1.0
+
+menu:
+  - title: Home
+    url: /
+  - title: Screenshot
+    url: /screenshot/
+  - title: History
+    url: /history/
+  - title: Privacy
+    url: /privacy/
