@@ -6,20 +6,23 @@
   <img width="360" height="176" alt="한국역사연표-메인타이틀x360" src="https://github.com/user-attachments/assets/4d7176c3-8485-467f-8f66-7c4df3bcfe81" /><br />
 </p>
 
-# 대한민국 역사연표
+# "한국역사연표"
 
-1. 항상 가지고 다니면서 역사를 공부
-2. 수업시간 태블릿에 무료로 설치하여 사용
-3. 한국사와 주요 세계사를 동시에 비교
-4. 위키피디아를 통해 자세히 읽기
-5. 나의 역사를 기록해서 연표 만들기
+1. 항상 가지고 다니는 역사책
+2. 교실 스마트디바이스 태블릿에 설치하여 역사수업 활용
+3. 한국사와 세계사를 동시에 비교
+4. 위키피디아를 통해 자세히 보기
+5. 나와 가족의 역사를 기록해서 연표만들기
+6. 구글 플레이스토어, 애플 앱스토어 동시 출시
   
 # Install
 
 > 검색어 : **"한국역사연표"**, "역사연표"
 
-<a href="https://play.google.com/store/apps/details?id=com.mcnorton.korea_history" target="korea_history"><img width="240" alt="down_playstore" src="https://github.com/user-attachments/assets/f5146e1a-9c16-443e-94a3-8e30b6be361c" /></a>
-<a href="https://apps.apple.com/kr/app/한국역사연표/id6749217619" target="korea_history"><img width="240" alt="down_appstore" src="https://github.com/user-attachments/assets/58300596-90a5-424f-b4d9-75cad84d265f" /></a>
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.mcnorton.korea_history" target="korea_history"><img width="240" alt="down_playstore" src="https://github.com/user-attachments/assets/f5146e1a-9c16-443e-94a3-8e30b6be361c" /></a>
+  <a href="https://apps.apple.com/kr/app/한국역사연표/id6749217619" target="korea_history"><img width="240" alt="down_appstore" src="https://github.com/user-attachments/assets/58300596-90a5-424f-b4d9-75cad84d265f" /></a>
+</p>
 
 # Screenshot
 
