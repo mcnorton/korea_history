@@ -14,6 +14,10 @@
 4. 위키피디아를 통해 자세히 보기
 5. 나와 가족의 역사를 기록해서 연표만들기
 6. 구글 플레이스토어, 애플 앱스토어 동시 출시
+
+```
+#한국역사연표 #역사연표 #교실수업 #필수설치앱 #스마트디바이스활용 #평생역사책 #역사기록장 #태블릿활용 #초등사회 #역사교과
+```
   
 # Install
 
@@ -21,7 +25,8 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.mcnorton.korea_history" target="korea_history"><img width="240" alt="down_playstore" src="https://github.com/user-attachments/assets/f5146e1a-9c16-443e-94a3-8e30b6be361c" /></a>
-  <a href="https://apps.apple.com/kr/app/한국역사연표/id6749217619" target="korea_history"><img width="240" alt="down_appstore" src="https://github.com/user-attachments/assets/58300596-90a5-424f-b4d9-75cad84d265f" /></a>
+  <a href="https://apps.apple.com/kr/app/한국역사연표/id6749217619" target="korea_history"><img width="240" alt="down_appstore" src="https://github.com/user-attachments/assets/58300596-90a5-424f-b4d9-75cad84d265f" /></a><br />
+  Android, iOS 동시 출시
 </p>
 
 # Screenshot
@@ -40,4 +45,6 @@
 ![Screenshot_20250728_150008_180x](https://github.com/user-attachments/assets/5fcac463-627b-4944-b353-c287cab7c62f)
 ![Screenshot_20250728_145628_180x](https://github.com/user-attachments/assets/9bc88abe-38f6-47c1-898f-4446fbfd90c1)
 
-
+```
+2018-2025, McNorton&Education
+```
