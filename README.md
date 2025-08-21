@@ -1,3 +1,5 @@
+<h1>한국역사연표</h1>
+
 ![korea_history_title](https://github.com/user-attachments/assets/2624047a-c49d-4221-b3f0-c6caa6b593d7)
 
 [Home](https://mcnorton.github.io/korea_history) | 
