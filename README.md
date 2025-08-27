@@ -1,4 +1,5 @@
 [HOME](https://mcnorton.github.io/korea_history) | 
+[사용설명서](https://mcnorton.github.io/korea_history/wiki) | 
 [버전이력](https://mcnorton.github.io/korea_history/history) |
 [개인정보처리방침](https://mcnorton.github.io/korea_history/privacy)
 
@@ -37,19 +38,34 @@
 ![Screenshot_20250723_214531_180x](https://github.com/user-attachments/assets/a20c8e78-4710-4d33-8e3f-618e6c20eaa8)
 ![Screenshot_20250723_214604_180x](https://github.com/user-attachments/assets/5d3e07cd-a061-423c-a362-b5f591a937f0)
 
-## 책갈피와 빠른검색
+- 시대별로 펼치기 리스트로 묶어서 정리되어 있어요.
+- 지구본 아이콘으로 세계사와 한국사를 함께볼 수 있어요.
+- 모두 펼치기/모으기 아이콘으로 쉽게 열어볼 수 있어요.
+
+## 책갈피와 빠르고 편리한 검색
 ![Screenshot_20250728_151323_180x](https://github.com/user-attachments/assets/bc41b2e8-e844-4fdd-831c-95f4eec8b16f)
 ![Screenshot_20250723_215026_180x](https://github.com/user-attachments/assets/9a114e4b-30f4-4e27-bbbf-e5811478651e)
+![Screenshot_20250827_112454_180x](https://github.com/user-attachments/assets/3144ea21-770f-419b-b89a-86fe88677320)
+
+
+- 책갈피 아이콘을 누르면 자주 보는 역사나, 지금 공부중인 사건을 모아볼 수 있어요.
+- 검색 결과에 책갈피로 표시하면 쉽게 모아볼 수 있어요.
+- 최근 검색한 키워드 12개까지 보여주어서 손쉽게 다시 검색할 수 있어요.
 
 ## 나의 역사연표 만들기
-Old version  
-![Screenshot_20250728_150008_180x](https://github.com/user-attachments/assets/5fcac463-627b-4944-b353-c287cab7c62f)
-![Screenshot_20250728_145628_180x](https://github.com/user-attachments/assets/9bc88abe-38f6-47c1-898f-4446fbfd90c1)
-
 New version 1.1.4  
 ![Screenshot_20250827_093905_180x](https://github.com/user-attachments/assets/03049e49-3c5c-4edc-947e-cff118cd3cdb)
 ![Screenshot_20250827_110756-180x](https://github.com/user-attachments/assets/03940ea0-7534-4138-9e2f-eb475053cd84)
 
+- 나와 우리가족의 역사를 트리(tree) 형태로 예쁘게 살펴볼 수 있어요.
+- 자세히 볼 수도 있고, 수정/삭제 할 수 있어요.
+- 캘린더를 입력할 때, 연도/월을 빠르게 이동할 수 있어요.
+
+Old version  
+![Screenshot_20250728_150008_180x](https://github.com/user-attachments/assets/5fcac463-627b-4944-b353-c287cab7c62f)
+![Screenshot_20250728_145628_180x](https://github.com/user-attachments/assets/9bc88abe-38f6-47c1-898f-4446fbfd90c1)
+
+- ~파스텔 톤 무지개 목록으로 예쁘게 볼 수 있어요.~
 
 ```
 2018-2025, McNorton&Education
