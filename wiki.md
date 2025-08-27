@@ -2,12 +2,12 @@
 [사용설명서](https://mcnorton.github.io/korea_history/wiki) | 
 [버전이력](https://mcnorton.github.io/korea_history/history) |
 [개인정보처리방침](https://mcnorton.github.io/korea_history/privacy)
-
+  
 <p align="center">
   <img width="360" height="121" alt="한국역사연표-메인타이틀x360-crop" src="https://github.com/user-attachments/assets/8358437a-1518-43b7-b148-2effc81265aa" /><br />
   한국역사연표 앱을 활용하는 방법
 </p>
-
+  
 # 수업활용
 
 ## 초등학교 2학년 우리가족역사책 프로젝트
