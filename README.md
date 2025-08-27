@@ -42,8 +42,14 @@
 ![Screenshot_20250723_215026_180x](https://github.com/user-attachments/assets/9a114e4b-30f4-4e27-bbbf-e5811478651e)
 
 ## 나의 역사연표 만들기
+Old version  
 ![Screenshot_20250728_150008_180x](https://github.com/user-attachments/assets/5fcac463-627b-4944-b353-c287cab7c62f)
 ![Screenshot_20250728_145628_180x](https://github.com/user-attachments/assets/9bc88abe-38f6-47c1-898f-4446fbfd90c1)
+
+New version 1.1.4  
+![Screenshot_20250827_093905_180x](https://github.com/user-attachments/assets/03049e49-3c5c-4edc-947e-cff118cd3cdb)
+![Screenshot_20250827_110756-180x](https://github.com/user-attachments/assets/03940ea0-7534-4138-9e2f-eb475053cd84)
+
 
 ```
 2018-2025, McNorton&Education
