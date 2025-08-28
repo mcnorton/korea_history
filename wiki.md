@@ -2,10 +2,11 @@
 [사용설명서](https://mcnorton.github.io/korea_history/wiki) | 
 [버전이력](https://mcnorton.github.io/korea_history/history) |
 [개인정보처리방침](https://mcnorton.github.io/korea_history/privacy)
-  
+
 <p align="center">
-  <img width="360" height="121" alt="한국역사연표-메인타이틀x360-crop" src="https://github.com/user-attachments/assets/8358437a-1518-43b7-b148-2effc81265aa" /><br />
+  <img width="360" height="176" alt="한국역사연표-메인타이틀x360" src="https://github.com/user-attachments/assets/4d7176c3-8485-467f-8f66-7c4df3bcfe81" /><br />
 </p>
+
 
 > 한국역사연표 앱을 활용하는 방법을 생각해보았어요.  
 > 더 좋은 아이디어와 사례는 [의견보내기](https://mcnorton.github.io/korea_history/helpdesk.html) 를 이용해서 꼭 알려주세요.
