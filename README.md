@@ -60,12 +60,7 @@ New version 1.1.4
 - 나와 우리가족의 역사를 트리(tree) 형태로 예쁘게 살펴볼 수 있어요.
 - 자세히 볼 수도 있고, 수정/삭제 할 수 있어요.
 - 캘린더를 입력할 때, 연도/월을 빠르게 이동할 수 있어요.
-
-Old version  
-![Screenshot_20250728_150008_180x](https://github.com/user-attachments/assets/5fcac463-627b-4944-b353-c287cab7c62f)
-![Screenshot_20250728_145628_180x](https://github.com/user-attachments/assets/9bc88abe-38f6-47c1-898f-4446fbfd90c1)
-
-- ~파스텔 톤 무지개 목록으로 예쁘게 볼 수 있어요.~
+- 파스텔톤 색상으로 예쁘게 볼 수 있어요.
 
 ```
 2018-2025, McNorton&Education
