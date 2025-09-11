@@ -1,7 +1,12 @@
 [HOME](https://mcnorton.github.io/korea_history) | 
 [사용설명서](https://mcnorton.github.io/korea_history/wiki) | 
 [버전이력](https://mcnorton.github.io/korea_history/history) |
-[개인정보처리방침](https://mcnorton.github.io/korea_history/privacy)
+[개인정보처리방침](https://mcnorton.github.io/korea_history/privacy) |
+[사용자의견수렴](https://mcnorton.github.io/helpdesk)
+
+<p align="center">
+  <img width="360" height="176" alt="한국역사연표-메인타이틀x360" src="https://github.com/user-attachments/assets/4d7176c3-8485-467f-8f66-7c4df3bcfe81" /><br />
+</p>
 
 <style>
     * {
