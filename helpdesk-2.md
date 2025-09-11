@@ -1,7 +1,7 @@
----
-layout: default
-title: 고객의견수렴
----
+[HOME](https://mcnorton.github.io/korea_history) | 
+[사용설명서](https://mcnorton.github.io/korea_history/wiki) | 
+[버전이력](https://mcnorton.github.io/korea_history/history) |
+[개인정보처리방침](https://mcnorton.github.io/korea_history/privacy)
 
 <style>
     * {
