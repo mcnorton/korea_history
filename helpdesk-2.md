@@ -1,4 +1,4 @@
-# 사용자의견 반영
+## 사용자의견 반영
 
 <style>
         * {
@@ -192,59 +192,60 @@
             100% { transform: rotate(360deg); }
         }
 </style>
+
 <div class="container">
-        <div class="header">
-            <h1>한국역사연표</h1>
-            <p>소중한 의견을 들려주세요</p>
-        </div>
+       <div class="header">
+       <h1>한국역사연표</h1>
+       <p>소중한 의견을 들려주세요</p>
+</div>
 
-        <form id="feedbackForm">
-            <div class="form-group">
-                <label for="category">분류</label>
-                <select id="category" name="category" required>
-                    <option value="">분류를 선택해주세요</option>
-                    <option value="bug">버그 및 오류신고</option>
-                    <option value="feature">아이디어제안</option>
-                    <option value="case">활용사례공유</option>
-                    <option value="general">자유의견</option>
-                </select>
-            </div>
+<form id="feedbackForm">
+     <div class="form-group">
+         <label for="category">분류</label>
+         <select id="category" name="category" required>
+             <option value="">분류를 선택해주세요</option>
+             <option value="bug">버그 및 오류신고</option>
+             <option value="feature">아이디어제안</option>
+             <option value="case">활용사례공유</option>
+             <option value="general">자유의견</option>
+         </select>
+     </div>
 
-            <div class="form-group">
-                <label for="message">의견내용</label>
-                <textarea id="message" name="message" placeholder="의견을 자유롭게 작성해주세요..." required></textarea>
-            </div>
+     <div class="form-group">
+         <label for="message">의견내용</label>
+         <textarea id="message" name="message" placeholder="의견을 자유롭게 작성해주세요..." required></textarea>
+     </div>
 
-            <button type="submit" class="submit-btn">보내기</button>
-        </form>
+     <button type="submit" class="submit-btn">보내기</button>
+</form>
 
-        <div class="loading" id="loading">
-            <div class="spinner"></div>
-            <p>전송 중...</p>
-        </div>
-    </div>
+<div class="loading" id="loading">
+     <div class="spinner"></div>
+     <p>전송 중...</p>
+     </div>
+</div>
 
-    <!-- 성공 모달 -->
-    <div class="modal success" id="successModal">
+<!-- 성공 모달 -->
+<div class="modal success" id="successModal">
         <div class="modal-content">
             <div class="modal-icon">✅</div>
             <h3>전송 완료</h3>
             <p>개발자에게 발송되었습니다.<br>소중한 의견 감사합니다.</p>
             <button class="modal-btn" onclick="closeSuccessModal()">완료</button>
         </div>
-    </div>
+</div>
 
-    <!-- 실패 모달 -->
-    <div class="modal error" id="errorModal">
+<!-- 실패 모달 -->
+<div class="modal error" id="errorModal">
         <div class="modal-content">
             <div class="modal-icon">❌</div>
             <h3>전송 실패</h3>
             <p id="errorMessage">전송 중 오류가 발생했습니다.</p>
             <button class="modal-btn" onclick="closeErrorModal()">재시도</button>
         </div>
-    </div>
+</div>
 
-  <script>
+<script>
         // Google Apps Script 웹앱 URL (실제 URL로 변경 필요)
         const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxGrVhk4Q5ErtZ7sEwvQTvPS-J15Ie1PupY5HbnizQhMCw0YtpXIWqAfNRn1t2YnHA/exec';
 
