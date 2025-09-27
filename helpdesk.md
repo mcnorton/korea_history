@@ -193,7 +193,7 @@
 
 <div class="container">
     <div class="header">
-        <h1>고객의견수렴</h1>
+        <h1>사용자 제안</h1>
         <p>소중한 의견을 들려주세요</p>
     </div>
 
